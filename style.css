@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0 auto;
+	list-style: none;
+	font-family: "맑은 고딕";
+	padding-top:5px;
+}
+body,html{
+	width: 1000px;
+	height: auto;
+}	
+
+img{
+	max-width: 100%;
+}
+.clear{clear:both;position:inherit;}
+
+#imgslide{
+	height: auto;
+}
+.imgs{
+	position: relative;
+	overflow: hidden;
+	height: 1201px;
+}
+.imgs>img{
+	width: 100%;
+	position: absolute;
+}
+
+#slides {
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+}
+#slides li {
+	display: none;
+}
+#slides li:first-child {
+	display: block;
+}
+#slides li img {
+	width: 100%;
+	height: auto;
+}
+
+
+
+.btn_slides_next{
+	position:fixed;
+	top:45%;
+	left:90%;
+}
+
+
+
+.btn_slides_prev{
+	position:fixed;
+	top:45%;
+	left:0%;
+}
