@@ -8,7 +8,7 @@
 	padding-top:5px;
 }
 body,html{
-	width: 1000px;
+	width: 1004px;
 	height: auto;
 }	
 
@@ -23,7 +23,7 @@ img{
 .imgs{
 	position: relative;
 	overflow: hidden;
-	height: 1201px;
+	height: 1602px;
 }
 .imgs>img{
 	width: 100%;
