@@ -21,9 +21,9 @@ img{
 	height: auto;
 }
 .imgs{
-	position: relative;
-	overflow: hidden;
-	height: 1602px;
+	display:block;
+	max-width: 100%
+	height: auto;
 }
 .imgs>img{
 	width: 100%;
