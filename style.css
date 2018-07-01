@@ -8,7 +8,7 @@
 	padding-top:0px;
 }
 body,html{
-	width: 600px;
+	width: 800px;
 	height: auto;
 }	
 
@@ -25,16 +25,16 @@ img{
 }
 .imgs{
 	display:block;
-	max-width: auto;
+	max-width: 750px;
 	height: auto;
 }
 .imgs>img{
-	width: auto;
+	width: 750px;
 	position: absolute;
 }
 
 #slides {
-	width: auto;
+	width: 750px;
 	height: auto;
 	margin: 0 auto;
 	padding: 0;
@@ -46,7 +46,7 @@ img{
 	display: block;
 }
 #slides li img {
-	width: auto;
+	width: 750px;
 	height: auto;
 }
 
