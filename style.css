@@ -13,10 +13,7 @@ body,html{
 }	
 
 img{
-	max-width: 100%
-		width:auto;
-	height:auto;
-	
+	max-width: 100%;
 }
 .clear{clear:both;position:inherit;}
 
@@ -25,16 +22,16 @@ img{
 }
 .imgs{
 	display:block;
-	max-width: 750px;
+	max-width: 100%
 	height: auto;
 }
 .imgs>img{
-	width: 750px;
+	width: 100%;
 	position: absolute;
 }
 
 #slides {
-	width: 750px;
+	width: 100%;
 	height: auto;
 	margin: 0 auto;
 	padding: 0;
@@ -46,7 +43,7 @@ img{
 	display: block;
 }
 #slides li img {
-	width: 750px;
+	width: 100%;
 	height: auto;
 }
 
