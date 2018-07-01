@@ -26,12 +26,12 @@ img{
 	height: auto;
 }
 .imgs>img{
-	width: 100%;
+	width: 80%;
 	position: absolute;
 }
 
 #slides {
-	width: 100%;
+	width: 80%;
 	height: auto;
 	margin: 0 auto;
 	padding: 0;
@@ -43,7 +43,7 @@ img{
 	display: block;
 }
 #slides li img {
-	width: 100%;
+	width: 80%;
 	height: auto;
 }
 
