@@ -13,7 +13,7 @@ body,html{
 }	
 
 img{
-	max-width: 100%;
+	max-width: 750px;
 }
 .clear{clear:both;position:inherit;}
 
@@ -22,11 +22,11 @@ img{
 }
 .imgs{
 	display:block;
-	max-width: 100%
+	max-width: 750px
 	height: auto;
 }
 .imgs>img{
-	width: 100%;
+	width: 750px;
 	position: absolute;
 }
 
@@ -43,7 +43,7 @@ img{
 	display: block;
 }
 #slides li img {
-	width: 100%;
+	width: 750px;
 	height: auto;
 }
 
