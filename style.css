@@ -13,7 +13,7 @@ body,html{
 }	
 
 img{
-	max-width: 100%;
+	max-width: 90%;
 }
 .clear{clear:both;position:inherit;}
 
@@ -22,16 +22,16 @@ img{
 }
 .imgs{
 	display:block;
-	max-width: 100%
+	max-width: 90%
 	height: auto;
 }
 .imgs>img{
-	width: 80%;
+	width: 90%;
 	position: absolute;
 }
 
 #slides {
-	width: 80%;
+	width: 90%;
 	height: auto;
 	margin: 0 auto;
 	padding: 0;
