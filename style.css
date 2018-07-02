@@ -2,15 +2,14 @@
 /* CSS Document */
 
 *{
-	margin: 10 auto;
+	margin: 0 auto;
 	list-style: none;
 	font-family: "맑은 고딕";
-	padding-top:10px;
+	padding-top:0px;
 }
 body,html{
-	width: 600px;
+	width: 800px;
 	height: auto;
-	align: center;
 }	
 
 img{
